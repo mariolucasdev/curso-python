@@ -1,6 +1,8 @@
-# Saída de dados
+# > ENTRADAS E SAÍDAS DE DADOS
+
+# 1.Saída de dados
 print('hello world!')
 print('Seja bem vindo!')
 
-# Entrada de Dados
+# 2.Entrada de Dados
 input('Qual é a linguagem de programação que você está estudando?')
